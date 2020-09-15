@@ -1,5 +1,5 @@
 # Hello!
-## My profile is currently under development. Please check back later, thank you!
+#### My profile is currently under development. Please check back later, thank you!
 
 My current courseload includes:
 - 👨🏻‍💻 Data Structures and Algorithms [EECS 281]
