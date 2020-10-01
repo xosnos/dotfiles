@@ -8,4 +8,14 @@ My current courseload includes:
 - ⚡ Calculus Physics: Electricity and Magnetism [PHYSICS 240]
 - 💡 Calculus Physics: Electricity and Magnetism Lab [PHYSICS 241]
 
-Skills: C/C++, Python, Java, HTML/CSS, Git, Command Line
+#### Languages
+- C/C++
+- Python
+- Java
+- HTML/CSS
+
+#### Tools
+- Visual Studio
+- Git
+- Command Line
+
