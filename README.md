@@ -1,5 +1,7 @@
-# Hello!
-#### My profile is currently under development. Please check back later, thank you!
+<div align="center">
+  <h1>Hello World!</h1>
+  <h3>My profile is currently under development. Please check back later, thank you!</h3>
+</div>
 
 My current courseload includes:
 - ⌨ Computer Science Pragmatics [EECS 201]
