@@ -1,9 +1,10 @@
 <div align="center">
-  <h1>Hello World!</h1>
-  <p>My profile is currently under development. Please check back later, thank you!</p>
+  <h1>👋Hey Everyone, it's Steven🧑🏻</h1>
+  <p>Note: My profile is currently under development. Please check back later, thank you!</p>
 </div>
 
-My current courseload includes:
+
+#### Academic Coursework
 - ⌨ Computer Science Pragmatics [EECS 201]
 - 👨🏻‍💻 Data Structures and Algorithms [EECS 281]
 - 🖥 Introduction to Computer Organization [EECS 370]
@@ -14,6 +15,7 @@ My current courseload includes:
 - C/C++
 - Python
 - Java
+- Swift
 - HTML/CSS
 
 #### Tools
@@ -23,3 +25,4 @@ My current courseload includes:
 
 [![Steven's github stats](https://github-readme-stats.vercel.app/api?username=XenoStorm&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XenoStorm&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
