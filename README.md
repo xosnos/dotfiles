@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hello World!</h1>
-  <h3>My profile is currently under development. Please check back later, thank you!</h3>
+  <p>My profile is currently under development. Please check back later, thank you!</p>
 </div>
 
 My current courseload includes:
@@ -21,3 +21,4 @@ My current courseload includes:
 - Git
 - Command Line
 
+[![Steven's github stats](https://github-readme-stats.vercel.app/api?username=XenoStorm&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
