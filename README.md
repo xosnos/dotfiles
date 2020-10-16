@@ -4,21 +4,21 @@
 </div>
 
 
-#### Academic Coursework
+####🏫 Academic Coursework 🏫
 - ⌨ Computer Science Pragmatics [EECS 201]
 - 👨🏻‍💻 Data Structures and Algorithms [EECS 281]
 - 🖥 Introduction to Computer Organization [EECS 370]
 - ⚡ Calculus Physics: Electricity and Magnetism [PHYSICS 240]
 - 💡 Calculus Physics: Electricity and Magnetism Lab [PHYSICS 241]
 
-#### Languages
+####🌐 Languages 🌐
 - C/C++
 - Python
 - Java
 - Swift
 - HTML/CSS
 
-#### Tools
+####🛠 Tools 🛠
 - Visual Studio
 - Git
 - Command Line
