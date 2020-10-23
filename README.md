@@ -16,7 +16,7 @@
 <ul>
   <li>C/C++</li>
   <li>Python</li>
-  <li>HTML/CSS<li>
+  <li>HTML/CSS</li>
   <li>Swift</li>
   <li>Java</li>
 </ul>
