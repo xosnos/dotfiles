@@ -12,7 +12,7 @@
   <li>💡 Calculus Physics: Electricity and Magnetism Lab [PHYSICS 241]</li>
 </ul>
 
-<h4>🌐 Languages 🌐</h4>
+<h4>🌐 Programming Languages 🌐</h4>
 <ul>
   <li>C/C++</li>
   <li>Python</li>
