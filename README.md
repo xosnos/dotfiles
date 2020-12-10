@@ -3,15 +3,6 @@
   <p>Note: My profile is currently under development. Please check back later, thank you!</p>
 </div>
 
-<h4>🏫 Academic Coursework 🏫</h4>
-<ul>
-  <li>⌨ Computer Science Pragmatics [EECS 201]</li>
-  <li>👨🏻‍💻 Data Structures and Algorithms [EECS 281]</li>
-  <li>🖥 Introduction to Computer Organization [EECS 370]</li>
-  <li>⚡ Calculus Physics: Electricity and Magnetism [PHYSICS 240]</li>
-  <li>💡 Calculus Physics: Electricity and Magnetism Lab [PHYSICS 241]</li>
-</ul>
-
 <h4>🌐 Programming Languages 🌐</h4>
 <ul>
   <li>C/C++</li>
