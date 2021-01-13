@@ -1,22 +1,30 @@
 <div align="center">
-  <h1>👋Hey Everyone, it's Steven🧑🏻</h1>
-  <p>Note: My profile is currently under development. Please check back later, thank you!</p>
+	<h1>👋Hey Everyone, it's Steven👨🏻‍💻</h1>
 </div>
 
-<h4>🌐 Programming Languages 🌐</h4>
+<h4> 🏫 Currently Learning 🏫 </h4>
 <ul>
-  <li>C/C++</li>
-  <li>Python</li>
-  <li>HTML/CSS</li>
-  <li>Swift</li>
-  <li>Java</li>
+	<li> EECS 376: Foundations of Computer Science </li>
+	<li> EECS 388: Introduction to Computer Security </li>
+	<li> EECS 481: Software Engineering </li>
+	<li> EECS 485: Web Systems </li>
+	<li> TCHNCLCM 300: Technical Communication </li>
 </ul>
 
-<h4>🛠 Tools 🛠</h4>
+<h4> 🌐 Programming Languages 🌐 </h4>
 <ul>
-  <li>Visual Studio</li>
-  <li>Git</li>
-  <li>Command Line</li>
+  <li> C/C++ </li>
+  <li> Python </li>
+  <li> HTML/CSS </li>
+  <li> Swift </li>
+  <li> Java </li>
+</ul>
+
+<h4> 🛠 Tools 🛠 </h4>
+<ul>
+  <li> Visual Studio </li>
+  <li> Git </li>
+  <li> Command Line </li>
 </ul>
 
 [![Steven's github stats](https://github-readme-stats.vercel.app/api?username=XenoStorm&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
