@@ -27,6 +27,6 @@
   <li> Command Line </li>
 </ul>
 
-[![Steven's github stats](https://github-readme-stats.vercel.app/api?username=XenoStorm&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XenoStorm&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Steven's github stats](https://github-readme-stats.vercel.app/api?username=xosnos&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xosnos&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
