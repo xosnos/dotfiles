@@ -5,7 +5,6 @@
 <h4> 🏫 Currently Learning 🏫 </h4>
 <ul>
 	<li> EECS 376: Foundations of Computer Science </li>
-	<li> EECS 388: Introduction to Computer Security </li>
 	<li> EECS 481: Software Engineering </li>
 	<li> EECS 485: Web Systems </li>
 	<li> TCHNCLCM 300: Technical Communication </li>
