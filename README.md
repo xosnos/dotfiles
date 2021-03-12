@@ -14,6 +14,7 @@
 <ul>
   <li> C/C++ </li>
   <li> Python </li>
+  <li> JavaScript </li>
   <li> HTML/CSS </li>
   <li> Swift </li>
   <li> Java </li>
@@ -21,9 +22,9 @@
 
 <h4> 🛠 Tools 🛠 </h4>
 <ul>
-  <li> Visual Studio </li>
+  <li> VSCode </li>
   <li> Git </li>
-  <li> Command Line </li>
+  <li> Bash </li>
 </ul>
 
 [![Steven's github stats](https://github-readme-stats.vercel.app/api?username=xosnos&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
