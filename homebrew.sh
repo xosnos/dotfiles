@@ -34,3 +34,4 @@
 # brew install --cask expo-orbit
 # brew install --cask amazon-q
 # brew install --cask iterm2
+# brew install --cask aldente
