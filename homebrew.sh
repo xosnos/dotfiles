@@ -18,6 +18,7 @@
 
 # Casks
 # brew install --cask google-chrome
+# brew install --cask logitech-g-hub
 # brew install --cask spotify
 # brew install --cask vnc-viewer
 # brew install --cask visual-studio-code
