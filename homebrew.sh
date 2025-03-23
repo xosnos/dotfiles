@@ -26,13 +26,13 @@
 # brew install --cask notion
 # brew install --cask rectangle
 # brew install --cask topnotch
-# brew install --cask fig
-# brew install --cask bootstrap-studio
 # brew install --cask github
 # brew install --cask discord
 # brew install --cask obsidian
 # brew install --cask alt-tab
 # brew install --cask expo-orbit
 # brew install --cask amazon-q
-# brew install --cask iterm2
 # brew install --cask aldente
+# brew install --cask cursor
+# brew install --cask ollama
+# brew install --cask docker
